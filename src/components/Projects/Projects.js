@@ -55,7 +55,7 @@ function Projects() {
             />
           </Col>
 
-           <Col md={4} className="project-card">
+{/*  <Col md={4} className="project-card">
             <ProjectCard
               imgPath={xpensyImg}
               isBlog={false}
@@ -64,7 +64,7 @@ function Projects() {
               ghLink="https://github.com/kalyaaanie/Xpensy"
               demoLink="https://xpensy.vercel.app/"
             />
-          </Col>
+          </Col>*/}
 
           <Col md={4} className="project-card">
             <ProjectCard
