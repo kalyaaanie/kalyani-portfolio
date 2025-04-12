@@ -55,15 +55,16 @@ function Projects() {
             />
           </Col>
 
-          {/*<Col md={4} className="project-card">
+           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={eduTechImg}
+              imgPath={xpensyImg}
               isBlog={false}
-              title="EduConnect"
-              description="EduConnect is a cutting-edge educational platform built using the MERN stack (MongoDB, Express.js, React, Node.js), designed to revolutionize online learning. This platform offers a seamless, interactive, and engaging learning experience for students and educators alike. With features like real-time collaboration, personalized learning paths, and an intuitive user interface, EduConnect bridges the gap between traditional classrooms and modern digital education. Whether you're looking to enhance your skills or share your knowledge, EduConnect provides the tools and community to support your educational journey."
-              demoLink="https://study-notion-edtech-frontend-pink.vercel.app/"
+              title="Xpensy"
+              description="Xpensy — a voice-powered budget tracker that makes managing money super easy. Built with React, Material UI, and Speechify, it lets you add income and expenses just by talking. No typing, no fuss."
+              ghLink="https://github.com/kalyaaanie/Xpensy"
+              demoLink="https://xpensy.vercel.app/"
             />
-          </Col>*/}
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
